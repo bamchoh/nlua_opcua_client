@@ -7,7 +7,7 @@
 
   <ItemGroup>
     <PackageReference Include="NLua" Version="1.4.18" />
-    <PackageReference Include="OPCFoundation.NetStandard.Opc.Ua" Version="1.4.355.26" />
+    <PackageReference Include="OPCFoundation.NetStandard.Opc.Ua" Version="1.4.359.31" />
   </ItemGroup>
 
   <ItemGroup>
